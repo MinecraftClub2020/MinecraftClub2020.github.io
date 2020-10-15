@@ -18,6 +18,7 @@ If you're unsure about what version you play on, use this as a guide.
  1. Enter the server address (45.33.64.86:25565)![ ](https://i.imgur.com/oWn12re.png)
  2. Your screen should look something like this afterwards
 ![enter image description here](https://i.imgur.com/Nzknd8R.png)
+
 ### Bedrock Server
  1. Click add server (may be different depending on the device) ![](https://i.imgur.com/DvMucYX.png)
  2. The server ip is 45.79.177.107 and the port is 19132 ![](https://i.imgur.com/UVm4WGG.png)
