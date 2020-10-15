@@ -1,5 +1,5 @@
-# Welcome To Minecraft Club
-Welcome to East Greenwich High Schools Minecraft Club!
+# EGHS Minecraft Club
+Welcome to East Greenwich High School Minecraft Club!
 
 - If you are not yet signed up but would like to join, sign up [here]()
 - Join the Google Classroom using this [link]()
