@@ -34,6 +34,6 @@ If you're unsure about what version you play on, use this as a guide.
 
 ## Contact Us
 If you have any questions, or problems, feel free to contact us.
-- (Jimmy Prior)  jprior549@student.egsd.net
-- (Anna Decesare)  adecesare474@student.egsd.net 
+- (Jimmy Prior)  [jprior549@student.egsd.net](jprior549@student.egsd.net)
+- (Anna Decesare)  [adecesare474@student.egsd.net](adecesare474@student.egsd.net)
 
