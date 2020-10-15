@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Welcome To Minecraft Club
+Welcome to East Greenwich High Schools Minecraft Club!
 
-You can use the [editor on GitHub](https://github.com/MinecraftClub2020/MinecraftClub2020.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- If you are not yet signed up but would like to join, sign up [here]()
+- Join the Google Classroom using this [link]()
+- Never miss a meeting, join the [remind]()
+- Here is our google meet [link](). Next meet is 11/xx/20 @ 3 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How To Join
 
-### Markdown
+### Java vs Bedrock
+If you're unsure about what version you play on, use this as a guide. 
+- [Minecraft Bedrock](https://minecraft.gamepedia.com/Bedrock_Edition) is the version on phone, tablet, console and pc
+ - [Minecraft Java](https://minecraft.gamepedia.com/Java_Edition) is the version that is only available on pc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Java Server
 
-```markdown
-Syntax highlighted code block
+ 1. Enter the server address (45.33.64.86:25565)![ ](https://i.imgur.com/oWn12re.png)
+ 2. Your screen should look something like this afterwards
+![enter image description here](https://i.imgur.com/Nzknd8R.png)
+### Bedrock Server
+ 1. Click add server (may be different depending on the device) ![](https://i.imgur.com/DvMucYX.png)
+ 2. The server ip is 45.79.177.107 and the port is 19132 ![](https://i.imgur.com/UVm4WGG.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Server Rules
 
-- Bulleted
-- List
+ -  Rule 1 
+ -  Rule 2
+ -  Rule 3
+ -  Rule 4
+ -  Rule 5
+ -  Rule 6
+ -  Rule 7
 
-1. Numbered
-2. List
+## Contact Us
+If you have any questions, or problems, feel free to contact us.
+- (Jimmy Prior)  jprior549@student.egsd.net
+- (Anna Decesare)  adecesare474@student.egsd.net 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MinecraftClub2020/MinecraftClub2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
