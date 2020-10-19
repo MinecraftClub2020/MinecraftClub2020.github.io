@@ -1,10 +1,10 @@
 # EGHS Minecraft Club
-Welcome to East Greenwich High School Minecraft Club!
+Welcome to the East Greenwich High School Minecraft Club!
 
-- If you are not yet signed up but would like to join, sign up [here]()
-- Join the Google Classroom using this [link]()
+- If you are not yet signed up but would like to join, sign up [here](https://forms.gle/DgExDDof9oKdpFqe8)
+- Join the Google Classroom using this code fyfs7rw
 - Never miss a meeting, join the [remind]()
-- Here is our google meet [link](). Next meet is 11/xx/20 @ 3 
+- Here is our google meet [link](https://meet.google.com/lookup/g5qtkibuz3?authuser=0&hs=179). Next meet is 11/xx/20 @ 3 
 
 ## How To Join
 
@@ -25,13 +25,6 @@ If you're unsure about what version you play on, use this as a guide.
 
 ## Server Rules
 
- -  Rule 1 
- -  Rule 2
- -  Rule 3
- -  Rule 4
- -  Rule 5
- -  Rule 6
- -  Rule 7
 
 ## Contact Us
 If you have any questions, or problems, feel free to contact us.
